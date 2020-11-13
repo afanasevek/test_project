@@ -1,0 +1,10 @@
+ru/afanasev/subscriber/model/Purchase.class
+ru/afanasev/subscriber/dto/MessageMapper.class
+ru/afanasev/subscriber/model/PurchaseRepository.class
+ru/afanasev/subscriber/model/SubscriptionRepository.class
+ru/afanasev/subscriber/dto/MessageDtoRequest.class
+ru/afanasev/subscriber/controller/SubscribeController.class
+ru/afanasev/subscriber/service/MessageServiceImpl.class
+ru/afanasev/subscriber/service/MessageService.class
+ru/afanasev/subscriber/Application.class
+ru/afanasev/subscriber/model/Subscription.class

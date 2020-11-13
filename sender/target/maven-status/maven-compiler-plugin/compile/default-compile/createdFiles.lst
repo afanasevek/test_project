@@ -1,0 +1,9 @@
+ru/afanasev/sender/utils/MessageUtils.class
+ru/afanasev/sender/Application.class
+ru/afanasev/sender/dto/mapper/MessageMapper.class
+ru/afanasev/sender/service/MessageServiceImpl.class
+ru/afanasev/sender/config/AppConfig.class
+ru/afanasev/sender/controller/SendController.class
+ru/afanasev/sender/dto/Action.class
+ru/afanasev/sender/dto/MessageDto.class
+ru/afanasev/sender/service/MessageService.class

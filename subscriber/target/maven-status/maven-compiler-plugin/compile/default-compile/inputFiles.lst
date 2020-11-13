@@ -1,0 +1,10 @@
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/dto/MessageMapper.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/model/Subscription.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/model/Purchase.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/Application.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/service/MessageServiceImpl.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/model/PurchaseRepository.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/dto/MessageDtoRequest.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/service/MessageService.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/controller/SubscribeController.java
+/home/evgeny/test_project/subscriber/src/main/java/ru/afanasev/subscriber/model/SubscriptionRepository.java

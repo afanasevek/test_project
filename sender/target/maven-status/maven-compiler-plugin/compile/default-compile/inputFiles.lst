@@ -1,0 +1,9 @@
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/dto/Action.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/dto/mapper/MessageMapper.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/service/MessageService.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/dto/MessageDto.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/controller/SendController.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/Application.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/config/AppConfig.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/service/MessageServiceImpl.java
+/home/evgeny/test_project/sender/src/main/java/ru/afanasev/sender/utils/MessageUtils.java
